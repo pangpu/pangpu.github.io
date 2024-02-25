@@ -21,23 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pp.jpg"
   name             : "Pu Pang (庞浦)"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         : 
+  employer         : #
   uri              : # URL
   email            : "pangpu@cs.sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "test"
-  dblp             : "test"
+  researchgate     : #
+  dblp             : "https://dblp.org/pid/172/4558.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
