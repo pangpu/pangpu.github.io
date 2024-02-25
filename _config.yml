@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.JPG"
+  avatar           : "pp.jpg"
   name             : "Pu Pang (庞浦)"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor, Shanghai Jiao Tong University"
