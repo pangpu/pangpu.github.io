@@ -13,7 +13,6 @@ Prior to that, he got his B.S. in Computer Sciences from Department of Computer 
 
 Publications
 ======
-
 *^Co-author*
 
 **Conferences**
@@ -35,6 +34,14 @@ Publications
 * Guangqiang Luan, **Pu Pang**, Quan Chen, Shuai Xue, Zhuo Song, Minyi Guo. "Online Thread Auto-Tuning for Performance Improvement and Resource Saving." IEEE Transactions on Parallel and Distributed Systems (**TPDS**). 2022. [[Paper](https://doi.org/10.1109/TPDS.2022.3169410)]
 
 * **Pu Pang**, Quan Chen, Deze Zeng, Minyi Guo. "Adaptive Preference-aware Co-location for Improving Resource Utilization of Power Constrained Datacenters." IEEE Transactions on Parallel and Distributed Systems (**TPDS**). 2020. [[Paper](https://doi.org/10.1109/TPDS.2020.3023997)]
+
+Projects
+======
+* 基于大小核环境下的动态资源压力影响研究（华为），项目骨干，2023-2024
+* 云上应用QoS量化与自适应感知调度技术研究（华为），项目骨干，2022-2023
+* 大小核环境下VM处理器核的高性能分配机制和算法研究（华为），项目骨干，2021-2022
+* 基于区块链的分布式资源管理关键技术研究（国家自然科学基金面上项目），参与，2019-2022
+
 
 Professional Services
 ======
