@@ -13,7 +13,7 @@ Prior to that, he got his B.S. in Computer Sciences from Department of Computer 
 
 Publications
 ======
-*^Co-author*
+*^Equal contribution*
 
 **Conferences**
 
@@ -45,7 +45,7 @@ Projects
 
 Professional Services
 ======
-* Reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
+* Invited reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
   
 Teaching Experiences
 ======
