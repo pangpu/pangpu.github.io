@@ -43,7 +43,6 @@ Projects
 * 大小核环境下VM处理器核的高性能分配机制和算法研究（华为），项目骨干，2021-2022
 * 基于区块链的分布式资源管理关键技术研究（国家自然科学基金面上项目），参与，2019-2022
 
-
 Professional Services
 ======
 * Invited reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
@@ -51,4 +50,9 @@ Professional Services
 Teaching Experiences
 ======
 * 2024 Spring, CS353 Linux内核（助课）
+
+Honors & Awards
+======
+2024, CCF分布式计算与系统专委会博士学位论文激励计划
+2015，上海市优秀毕业生
 
