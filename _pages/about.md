@@ -54,5 +54,5 @@ Teaching Experiences
 Honors & Awards
 ======
 * 2024, CCF分布式计算与系统专委会博士学位论文激励计划
-* 2015，上海市优秀毕业生
+* 2015, 上海市优秀毕业生
 
