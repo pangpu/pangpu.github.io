@@ -11,6 +11,10 @@ Pu Pang is currently a research assistant in Department of Computer Science and 
 He received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2023, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/). 
 Prior to that, he got his B.S. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2015.
 
+Open Positions
+======
+I am looking for self-motivated PhD students and master students. Please drop me an email with your CV if you are interested in cloud computing and operating system (e.g., CXL memory, DPU, Linux kernel, etc.).
+
 Publications
 ======
 *^Equal contribution*
@@ -37,6 +41,7 @@ Publications
 
 Projects
 ======
+* 适配分层内存架构的自适应内存管理研究（国家自然科学基金青年基金项目），主持，2025-2027
 * DPU池化加速及可靠性增强（华为），项目骨干，2024-2025
 * 基于大小核环境下的动态资源压力影响研究（华为），项目骨干，2023-2024
 * 云上应用QoS量化与自适应感知调度技术研究（华为），项目骨干，2022-2023
@@ -45,7 +50,7 @@ Projects
 
 Professional Services
 ======
-* Invited reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)
+* Invited reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TSUSC](https://www.computer.org/csdl/journal/su).
   
 Teaching Experiences
 ======
