@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Pu Pang is currently a research assistant in Department of Computer Science and Engineering, Shanghai Jiao Tong University. He is also a member of the [EPCC Lab](http://epcc.sjtu.edu.cn/). His research interests are in cloud computing, resource management, and operating system. 
+Pu Pang is currently a research assistant in Department of Computer Science and Engineering, Shanghai Jiao Tong University. He is also a member of the [EPCC Lab](http://epcc.sjtu.edu.cn/). His research interests are in cloud computing, resource management, and operating systems. 
 He received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2023, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/). 
 Prior to that, he got his B.S. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2015.
 
@@ -20,6 +20,8 @@ Publications
 *^Equal contribution*
 
 **Conferences**
+
+* Guangqiang Luan, **Pu Pang**, Quan Chen, Chen Chen, Guoyao Xu, Chi Zhang, Yanyi Zi, Yinghao Yu, Guodong Yang, Liping Zhang, Minyi Guo. "Reducing the End-to-End Latency of DNN-based Recommendation Systems Deployed in GPU Pools." IEEE International Parallel and Distributed Processing Symposium (**IPDPS**). 2025. 
 
 * **Pu Pang**, Gang Deng, Kaihao Bai, Quan Chen, Shixuan Sun, Bo Liu, Yu Xu, Hongbo Yao, Zhengheng Wang, Xiyu Wang, Zheng Liu, Zhuo Song, Yong Yang, Tao Ma, Minyi Guo. "Async-fork: Mitigating Query Latency Spikes Incurred by the Fork-based Snapshot Mechanism from the OS Level." International Conference on Very Large Data Bases (**VLDB**). 2023. [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579079)]
 
@@ -56,7 +58,8 @@ Professional Services
   
 Teaching Experiences
 ======
-* 2024 Spring, CS353 Linux内核（助课）
+* 2025 Spring, CS3302 Linux内核
+* 2024 Spring, CS3302 Linux内核（助课）
 
 Honors & Awards
 ======
