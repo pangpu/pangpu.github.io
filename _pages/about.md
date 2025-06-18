@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Pu Pang is currently a research assistant in Department of Computer Science and Engineering, Shanghai Jiao Tong University. He is also a member of the [EPCC Lab](http://epcc.sjtu.edu.cn/). His research interests are in cloud computing, resource management, and operating systems. 
+Pu Pang is currently a research assistant in the School of Computer Science, Shanghai Jiao Tong University. He is also a member of the [EPCC Lab](http://epcc.sjtu.edu.cn/). His research interests are in cloud computing, resource management, and operating systems. 
 He received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2023, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/). 
 Prior to that, he got his B.S. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2015.
 
@@ -64,7 +64,7 @@ Professional Services
 Teaching Experiences
 ======
 * 2025 Spring, CS3302 Linux内核
-* 2024 Spring, CS3302 Linux内核（助课）
+* 2024 Spring, CS3302 Linux内核
 
 Honors & Awards
 ======
