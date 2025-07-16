@@ -59,7 +59,7 @@ Projects
 Professional Services
 ======
 * PC Member for [ICCD 2025](https://iccd-conf.com/home.html).
-* Invited reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TSUSC](https://www.computer.org/csdl/journal/su), [CCPE](https://onlinelibrary.wiley.com/journal/15320634).
+* Invited reviewer for [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TSUSC](https://www.computer.org/csdl/journal/su), [CCPE](https://onlinelibrary.wiley.com/journal/15320634), [TJSC](https://link.springer.com/journal/11227).
   
 Teaching Experiences
 ======
