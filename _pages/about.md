@@ -13,7 +13,7 @@ Prior to that, he got his B.S. in Computer Sciences from Department of Computer 
 
 Open Positions
 ======
-I am looking for self-motivated PhD students and master students. Please drop me an email with your CV if you are interested in cloud computing and operating system (e.g., CXL memory, DPU, Linux kernel, etc.).
+I am looking for self-motivated PhD students and master students. Please drop me an email with your CV if you are interested in cloud computing, operating system, and quantum computing.
 
 Publications
 ======
