@@ -21,7 +21,8 @@ Publications
 
 **Conferences**
 
-* Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. :trophy:<span style="color:red; font-weight:bold;">Best Paper Honorable Mention</span>
+* Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025.
+:trophy:<span style="color:red; font-weight:bold;">Best Paper Honorable Mention</span>
 
 * Fanrong Du, Jiuchen Shi, Quan Chen, **Pu Pang**, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://doi.org/10.1145/3721145.372576)] [[Code](https://github.com/dufanrong/DGG)] 
 
