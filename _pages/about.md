@@ -23,11 +23,13 @@ Publications
 
 * Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. 🏆**Best Paper Honorable Mention**
 
+* Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, **Pu Pang**, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. "LEGO: Supporting LLM-enhanced Games with One Gaming GPU." International Symposium on High-Performance Computer Architecture (**HPCA**). 2025.
+
 * Fanrong Du, Jiuchen Shi, Quan Chen, **Pu Pang**, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://doi.org/10.1145/3721145.372576)] [[Code](https://github.com/dufanrong/DGG)] 
 
 * Zhixin Tong, Jiuchen Shi, Quan Chen, **Pu Pang**, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://doi.org/10.1145/3721145.3725752)] [[Code](https://github.com/Tongzhixin/ORION)] 
 
-* Guangqiang Luan^, **Pu Pang**^, Quan Chen, Chen Chen, Guoyao Xu, Chi Zhang, Yanyi Zi, Yinghao Yu, Guodong Yang, Liping Zhang, Minyi Guo. "Reducing the End-to-End Latency of DNN-based Recommendation Systems Deployed in GPU Pools." IEEE International Parallel and Distributed Processing Symposium (**IPDPS**). 2025. [[Paper](https://doi.org/10.1109/IPDPS64566.2025.00070)]
+* Guangqiang Luan^, **Pu Pang**^, Quan Chen, Chen Chen, Guoyao Xu, Chi Zhang, Yanyi Zi, Yinghao Yu, Guodong Yang, Liping Zhang, Minyi Guo. "Reducing the End-to-End Latency of DNN-based Recommendation Systems Deployed in GPU Pools." International Parallel and Distributed Processing Symposium (**IPDPS**). 2025. [[Paper](https://doi.org/10.1109/IPDPS64566.2025.00070)]
 
 * **Pu Pang**, Gang Deng, Kaihao Bai, Quan Chen, Shixuan Sun, Bo Liu, Yu Xu, Hongbo Yao, Zhengheng Wang, Xiyu Wang, Zheng Liu, Zhuo Song, Yong Yang, Tao Ma, Minyi Guo. "Async-fork: Mitigating Query Latency Spikes Incurred by the Fork-based Snapshot Mechanism from the OS Level." International Conference on Very Large Data Bases (**VLDB**). 2023. [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579079)]
 
@@ -35,7 +37,7 @@ Publications
 
 * Haowei Huang^, **Pu Pang**^, Quan Chen, Jieru Zhao, Wenli Zheng, Minyi Guo. "CSC: Collaborative System Configuration for I/O-Intensive Applications in Multi-Tenant Clouds." International Parallel and Distributed Processing Symposium (**IPDPS**). 2022. [[Paper](https://doi.org/10.1109/IPDPS53621.2022.00131)]
 
-* **Pu Pang**, Quan Chen, Deze Zeng, Chao Li, Jingwen Leng, Wenli Zheng, Minyi Guo. "Sturgeon: Preference-aware Co-location for Improving Utilization of Power Constrained Computers". IEEE International Parallel and Distributed Processing Symposium (**IPDPS**). 2020. [[Paper](https://doi.org/10.1109/IPDPS47924.2020.00079)]
+* **Pu Pang**, Quan Chen, Deze Zeng, Chao Li, Jingwen Leng, Wenli Zheng, Minyi Guo. "Sturgeon: Preference-aware Co-location for Improving Utilization of Power Constrained Computers." International Parallel and Distributed Processing Symposium (**IPDPS**). 2020. [[Paper](https://doi.org/10.1109/IPDPS47924.2020.00079)]
 
 * **Pu Pang**, Yixun Zhang, Tianjian Li, Sung Kyu Lim, Quan Chen, Xiaoyao Liang, Li Jiang. "In-growth Test for Monolithic 3D Integrated SRAM." Design, Automation and Test in Europe (**DATE**). 2018. [[Paper](https://doi.org/10.23919/DATE.2018.8342071)]
 
