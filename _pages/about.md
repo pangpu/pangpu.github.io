@@ -25,9 +25,9 @@ Publications
 
 * Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Youmin Chen, **Pu Pang**, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. "LEGO: Supporting LLM-enhanced Games with One Gaming GPU." International Symposium on High-Performance Computer Architecture (**HPCA**). 2025.
 
-* Fanrong Du, Jiuchen Shi, Quan Chen, **Pu Pang**, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://doi.org/10.1145/3721145.372576)] [[Code](https://github.com/dufanrong/DGG)] 
+* Fanrong Du, Jiuchen Shi, Quan Chen, **Pu Pang**, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3721145.3725761)] [[Code](https://github.com/dufanrong/DGG)] 
 
-* Zhixin Tong, Jiuchen Shi, Quan Chen, **Pu Pang**, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://doi.org/10.1145/3721145.3725752)] [[Code](https://github.com/Tongzhixin/ORION)] 
+* Zhixin Tong, Jiuchen Shi, Quan Chen, **Pu Pang**, Shixuan Sun, Jie Meng, Jiang Liu, En Shao, Minyi Guo. "ORION: Optimizing OLAP Query Execution with Proactive Caching and Separate Operators." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://dl.acm.org/doi/abs/10.1145/3721145.3725752)] [[Code](https://github.com/Tongzhixin/ORION)] 
 
 * Guangqiang Luan^, **Pu Pang**^, Quan Chen, Chen Chen, Guoyao Xu, Chi Zhang, Yanyi Zi, Yinghao Yu, Guodong Yang, Liping Zhang, Minyi Guo. "Reducing the End-to-End Latency of DNN-based Recommendation Systems Deployed in GPU Pools." International Parallel and Distributed Processing Symposium (**IPDPS**). 2025. [[Paper](https://doi.org/10.1109/IPDPS64566.2025.00070)]
 
