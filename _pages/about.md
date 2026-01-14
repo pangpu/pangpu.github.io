@@ -21,7 +21,7 @@ Publications
 
 **Conferences**
 
-* Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. 🏆**Best Paper Honorable Mention**
+* Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. [[Paper](https://dl.acm.org/doi/10.1145/3772052.3772231)] 🏆**Best Paper Honorable Mention**
 
 * Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Youmin Chen, **Pu Pang**, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. "LEGO: Supporting LLM-enhanced Games with One Gaming GPU." International Symposium on High-Performance Computer Architecture (**HPCA**). 2025.
 
