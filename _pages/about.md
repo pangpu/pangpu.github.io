@@ -73,6 +73,7 @@ Professional Services
   
 Teaching Experiences
 ======
+* 2026 Spring, CS3302 Linux内核
 * 2025 Spring, CS3302 Linux内核
 * 2024 Spring, CS3302 Linux内核
 
