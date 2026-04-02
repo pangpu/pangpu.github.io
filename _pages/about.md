@@ -21,7 +21,7 @@ Publications
 
 **Conferences**
 
-* Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. [[Paper](https://dl.acm.org/doi/10.1145/3772052.3772231)] 🏆**Best Paper Honorable Mention**
+* Yaoxuan Li, **Pu Pang***, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu*, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. [[Paper](https://dl.acm.org/doi/10.1145/3772052.3772231)] 🏆**Best Paper Honorable Mention**
 
 * Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Youmin Chen, **Pu Pang**, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. "LEGO: Supporting LLM-enhanced Games with One Gaming GPU." International Symposium on High-Performance Computer Architecture (**HPCA**). 2025.
 
@@ -31,7 +31,7 @@ Publications
 
 * Guangqiang Luan^, **Pu Pang**^, Quan Chen, Chen Chen, Guoyao Xu, Chi Zhang, Yanyi Zi, Yinghao Yu, Guodong Yang, Liping Zhang, Minyi Guo. "Reducing the End-to-End Latency of DNN-based Recommendation Systems Deployed in GPU Pools." International Parallel and Distributed Processing Symposium (**IPDPS**). 2025. [[Paper](https://doi.org/10.1109/IPDPS64566.2025.00070)]
 
-* **Pu Pang**, Gang Deng, Kaihao Bai, Quan Chen, Shixuan Sun, Bo Liu, Yu Xu, Hongbo Yao, Zhengheng Wang, Xiyu Wang, Zheng Liu, Zhuo Song, Yong Yang, Tao Ma, Minyi Guo. "Async-fork: Mitigating Query Latency Spikes Incurred by the Fork-based Snapshot Mechanism from the OS Level." International Conference on Very Large Data Bases (**VLDB**). 2023. [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579079)]
+* **Pu Pang**^, Gang Deng^, Kaihao Bai, Quan Chen, Shixuan Sun, Bo Liu, Yu Xu, Hongbo Yao, Zhengheng Wang, Xiyu Wang, Zheng Liu, Zhuo Song, Yong Yang, Tao Ma, Minyi Guo. "Async-fork: Mitigating Query Latency Spikes Incurred by the Fork-based Snapshot Mechanism from the OS Level." International Conference on Very Large Data Bases (**VLDB**). 2023. [[Paper](https://dl.acm.org/doi/abs/10.14778/3579075.3579079)]
 
 * **Pu Pang**, Yaoxuan Li, Bo Liu, Quan Chen, Zhou Yu, Zhibin Yu, Deze Zeng, Jingwen Leng, Jieru Zhao, Minyi Guo. "PAC: Preference-Aware Co-location Scheduling on Heterogeneous NUMA Architectures To Improve Resource Utilization." International Conference on Supercomputing (**ICS**). 2023. [[Paper](https://dl.acm.org/doi/10.1145/3577193.3593709)]
 
