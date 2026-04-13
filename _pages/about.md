@@ -23,7 +23,7 @@ Publications
 
 * Yaoxuan Li, **Pu Pang**\*, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu\*, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. [[Paper](https://dl.acm.org/doi/10.1145/3772052.3772231)] 🏆**Best Paper Honorable Mention**
 
-* Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Youmin Chen, **Pu Pang**, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. "LEGO: Supporting LLM-enhanced Games with One Gaming GPU." International Symposium on High-Performance Computer Architecture (**HPCA**). 2025.
+* Han Zhao, Weihao Cui, Zeshen Zhang, Wenhao Zhang, Jiangtong Li, Quan Chen, Youmin Chen, **Pu Pang**, Zijun Li, Zhenhua Han, Yuqing Yang, Minyi Guo. "LEGO: Supporting LLM-enhanced Games with One Gaming GPU." International Symposium on High-Performance Computer Architecture (**HPCA**). 2025. [[Paper](https://ieeexplore.ieee.org/document/11408477)]
 
 * Fanrong Du, Jiuchen Shi, Quan Chen, **Pu Pang**, Li Li, Minyi Guo. "Generating Microservice Graphs with Production Characteristics for Efficient Resource Scaling." International Conference on Supercomputing (**ICS**). 2025. [[Paper](https://dl.acm.org/doi/full/10.1145/3721145.3725761)] [[Code](https://github.com/dufanrong/DGG)] 
 
@@ -69,7 +69,7 @@ Projects
 Professional Services
 ======
 * PC Member for [ICCD 2025](https://iccd-conf.com/2025/Program_Committee.html).
-* Invited reviewer for [TMC](https://www.computer.org/csdl/journal/tm), [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TSUSC](https://www.computer.org/csdl/journal/su), [CCPE](https://onlinelibrary.wiley.com/journal/15320634), [TJSC](https://link.springer.com/journal/11227), [TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317).
+* Invited reviewer for [TMC](https://www.computer.org/csdl/journal/tm), [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TCC](https://www.computer.org/csdl/journal/cc), [TSUSC](https://www.computer.org/csdl/journal/su), [CCPE](https://onlinelibrary.wiley.com/journal/15320634), [TJSC](https://link.springer.com/journal/11227), [TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317).
   
 Teaching Experiences
 ======
