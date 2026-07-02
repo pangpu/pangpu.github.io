@@ -11,6 +11,11 @@ Pu Pang is currently a research assistant in the School of Computer Science, Sha
 He received his Ph.D. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2023, supervised by [Prof. Quan Chen](https://www.cs.sjtu.edu.cn/~chen-quan/). 
 Prior to that, he got his B.S. in Computer Sciences from Department of Computer Science and Engineering, Shanghai Jiao Tong University in 2015.
 
+News
+======
+* [2026.07] 🎉*QPAR: A Plug-in Parallel Framework for Qubit Routing* was accepted to **SC 2026**. Congratulations to Mr. Jiaqi Liu and Mr. Runzhe Zhang. Sincere thanks to [Prof. Anbang Wu](https://anbangwu.com/).
+* [2026.07] 🎉*Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds* was accepted to **ICPP 2026**. Congratulations to Mr. Guangqiang Luan. Thanks to our collaborator from China Telecom Cloud Computing Research Institute and the strong support from Huawei.
+
 Open Positions
 ======
 I am looking for self-motivated PhD students and master students. Please drop me an email with your CV if you are interested in cloud computing, operating system, and quantum computing.
