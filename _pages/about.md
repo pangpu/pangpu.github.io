@@ -14,7 +14,7 @@ Prior to that, he got his B.S. in Computer Sciences from Department of Computer 
 News
 ======
 * [2026.07] 🎉*QPAR: A Plug-in Parallel Framework for Qubit Routing* was accepted to **SC 2026**. Congratulations to Mr. Jiaqi Liu and Mr. Runzhe Zhang. Sincere thanks to [Prof. Anbang Wu](https://anbangwu.com/).
-* [2026.07] 🎉*Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds* was accepted to **ICPP 2026**. Congratulations to Mr. Guangqiang Luan. Thanks to our collaborator from China Telecom Cloud Computing Research Institute and the strong support from Huawei.
+* [2026.07] 🎉*Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds* was accepted to **ICPP 2026**. Congratulations to Mr. Guangqiang Luan. Thanks to China Telecom Cloud Computing Research Institute and Huawei for their strong support.
 
 Open Positions
 ======
