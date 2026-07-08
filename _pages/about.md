@@ -50,7 +50,7 @@ Publications
 
 **Journals**
 
-* Ao Wei, Jing Yang, **Pu Pang**, Shixuan Sun, Xiaoli Ruan, Yuling Chen and Minyi Guo. "LHRS-LTW: A Load-Aware Hybrid-Cloud Resource Scheduling Framework for Large-Scale Training Workloads." IEEE Transactions on Parallel and Distributed Systems (**TPDS**). 2026. 
+* Ao Wei, Jing Yang, **Pu Pang**, Shixuan Sun, Xiaoli Ruan, Yuling Chen and Minyi Guo. "LHRS-LTW: A Load-Aware Hybrid-Cloud Resource Scheduling Framework for Large-Scale Training Workloads." IEEE Transactions on Parallel and Distributed Systems (**TPDS**). 2026. [[Paper](https://doi.org/10.1109/TPDS.2026.3704297)]
 
 * Guangqiang Luan, **Pu Pang**, Quan Chen, Shuai Xue, Zhuo Song, Minyi Guo. "Online Thread Auto-Tuning for Performance Improvement and Resource Saving." IEEE Transactions on Parallel and Distributed Systems (**TPDS**). 2022. [[Paper](https://doi.org/10.1109/TPDS.2022.3169410)]
 
