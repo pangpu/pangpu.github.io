@@ -25,6 +25,7 @@ Publications
 *^Equal contribution*, **Corresponding author*
 
 **Conferences**
+* Guangqiang Luan, **Pu Pang**\*, Quan Chen\*, Chen Chen, Wenda Tang, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds." International Conference on Parallel Processing (**ICPP**). 2026.
 
 * Yaoxuan Li, **Pu Pang**\*, Yecheng Yang, Quan Chen, Zhengxuan Yan, Guoyao Xu\*, Guodong Yang, Liping Zhang, Minyi Guo. "WDP: Mitigating Interference in CPU Sharing Through Wake-up Delay Driven Preemption for QoS-aware Co-location." Symposium on Cloud Computing (**SoCC**). 2025. [[Paper](https://dl.acm.org/doi/10.1145/3772052.3772231)] 🏆**Best Paper Honorable Mention**
 
