@@ -14,9 +14,6 @@ Prior to that, he got his B.S. in Computer Sciences from Department of Computer 
 News
 ======
 * [2026.10] ✨We are developing and open-sourcing [HBF EventLab](https://github.com/sjtu-epcc/HBF-EventLab), a modular discrete-event simulator for High Bandwidth Flash (HBF). Welcome to use it!
-* [2026.09] 🎉*Tamo: Taming Overload of Highly Dynamic Microservices via Precise Call Graph Prediction and Workload-Aware Scheduling* was accepted to **SoCC 2026**. Congratulations to Mr. Yaoxuan Li.
-* [2026.09] 🎉*MG-MoE: Accelerating Multi-GPU MoE Inference via Expert Prefetching and Cache Coordination* was accepted to **SoCC 2026**. Congratulations to Mr. Guangqiang Luan.
-* [2026.07] 🎉*Erasynth: Improving Quantum Uncomputation with Structural Measurements* was accepted to **ASPLOS 2027**. Congratulations to Mr. Mingfei Zhang. Heartfelt thanks to [Prof. Anbang Wu](https://anbangwu.com/).
 
 Open Positions
 ======
@@ -27,6 +24,12 @@ Publications
 *^Equal contribution*, **Corresponding author*
 
 **Conferences**
+* Mingfei Zhang, Anbang Wu\*, **Pu Pang**\*, Liqiang Lu, Zongwu Wang, Fangxin Liu, Zihan Liu, Yu Feng, Jingwen Leng, Minyi Guo. "Erasynth: Improving Quantum Uncomputation with Structural Measurements." International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2027.
+
+* Yaoxuan Li, **Pu Pang**\*, Zhengxuan Yan, Jiuchen Shi, Quan Chen\*, Minyi Guo. "Tamo: Taming Overload of Highly Dynamic Microservices via Precise Call Graph Prediction and Workload-Aware Scheduling." Symposium on Cloud Computing (**SoCC**). 2026.
+
+* Guangqiang Luan, **Pu Pang**\*, Quan Chen\*, Anbang Wu, Jingwen Leng, Minyi Guo. "MG-MoE: Accelerating Multi-GPU MoE Inference via Expert Prefetching and Cache Coordination." Symposium on Cloud Computing (**SoCC**). 2026.
+
 * Jiaqi Liu, Ruanzhe Zhang, Mingfei Zhang, Zhuo Song, Quan Chen, Jingwen Leng, Minyi Guo, **Pu Pang**\*, Anbang Wu\*. "QPAR: A Plug-in Parallel Framework for Qubit Routing." International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
 
 * Guangqiang Luan, **Pu Pang**\*, Quan Chen\*, Chen Chen, Wenda Tang, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds." International Conference on Parallel Processing (**ICPP**). 2026. [[Paper](https://dl.acm.org/doi/10.1145/3832810.3832813)]
