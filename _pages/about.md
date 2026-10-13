@@ -30,6 +30,8 @@ Publications
 
 * Guangqiang Luan, **Pu Pang**\*, Quan Chen\*, Anbang Wu, Jingwen Leng, Minyi Guo. "MG-MoE: Accelerating Multi-GPU MoE Inference via Expert Prefetching and Cache Coordination." Symposium on Cloud Computing (**SoCC**). 2026.
 
+* Yicheng Chen, Jiuchen Shi, Yixiao Wang, Quan Chen, **Pu Pang**, Minyi Guo. "GraphPlan: Low-Latency Multi-Graph NPU LLM Inference for Variable-Length Prompts." International Conference on Computer Design (**ICCD**). 2026.
+
 * Jiaqi Liu, Ruanzhe Zhang, Mingfei Zhang, Zhuo Song, Quan Chen, Jingwen Leng, Minyi Guo, **Pu Pang**\*, Anbang Wu\*. "QPAR: A Plug-in Parallel Framework for Qubit Routing." International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**). 2026.
 
 * Guangqiang Luan, **Pu Pang**\*, Quan Chen\*, Chen Chen, Wenda Tang, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds." International Conference on Parallel Processing (**ICPP**). 2026. [[Paper](https://dl.acm.org/doi/10.1145/3832810.3832813)]
