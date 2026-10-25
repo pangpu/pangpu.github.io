@@ -13,6 +13,7 @@ Prior to that, he got his B.S. in Computer Sciences from Department of Computer 
 
 News
 ======
+* [2026.10] 🎉Our paper "PLUGSCHED+: Efficient and General Live Update and Recovery for Linux Scheduler" has been accepted for publication in **ACM TACO**.
 * [2026.10] ✨We are developing and open-sourcing [HBF EventLab](https://github.com/sjtu-epcc/HBF-EventLab), a modular discrete-event simulator for High Bandwidth Flash (HBF). Welcome to use it!
 
 Open Positions
