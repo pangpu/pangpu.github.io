@@ -61,7 +61,7 @@ Publications
 
 **Journals**
 
-* Zhuo Song, Peng Wang, Yi Tao, **Pu Pang**\*, Chengqi Jiang, Quan Chen, Teng Ma, Shuai Xue, Huanle Xu, Tao Ma, Yong Yang, Shoumeng Yan, Minyi Guo. "PLUGSCHED+: Efficient and General Live Update and Recovery for Linux Scheduler." ACM Transactions on Architecture and Code Optimization (**TACO**). 2026.
+* Zhuo Song, Peng Wang, Yi Tao, **Pu Pang**\*, Chengqi Jiang, Quan Chen, Teng Ma, Shuai Xue, Huanle Xu, Tao Ma, Yong Yang, Shoumeng Yan, Minyi Guo. "PLUGSCHED+: Efficient and General Live Update and Recovery for Linux Scheduler." ACM Transactions on Architecture and Code Optimization (**TACO**). 2026. [[Paper](https://dl.acm.org/doi/10.1145/3861009)]
 
 * Ao Wei, Jing Yang, **Pu Pang**, Shixuan Sun, Xiaoli Ruan, Yuling Chen and Minyi Guo. "LHRS-LTW: A Load-Aware Hybrid-Cloud Resource Scheduling Framework for Large-Scale Training Workloads." IEEE Transactions on Parallel and Distributed Systems (**TPDS**). 2026. [[Paper](https://doi.org/10.1109/TPDS.2026.3704297)]
 
@@ -89,7 +89,7 @@ Projects
 Professional Services
 ======
 * PC Member of [NPC 2026](https://npc-conference.github.io/organizing-committee/#pc-members), [NAS 2026](https://nas-conf.org/NAS-2026/organization.html), [JCC 2026](https://jointcloud.cloud/#/organizers), [ICCD 2025](https://iccd-conf.com/2025/Program_Committee.html).
-* Invited reviewer for [TMC](https://www.computer.org/csdl/journal/tm), [TDSC](https://www.computer.org/csdl/journal/tq), [FCS](https://link.springer.com/journal/11704), [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TCC](https://www.computer.org/csdl/journal/cc), [TSUSC](https://www.computer.org/csdl/journal/su), [CCPE](https://onlinelibrary.wiley.com/journal/15320634), [TJSC](https://link.springer.com/journal/11227), [TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317).
+* Invited reviewer for [TMC](https://www.computer.org/csdl/journal/tm), [TDSC](https://www.computer.org/csdl/journal/tq), [TMM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [FCS](https://link.springer.com/journal/11704), [JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing), [TCC](https://www.computer.org/csdl/journal/cc), [TSUSC](https://www.computer.org/csdl/journal/su), [CCPE](https://onlinelibrary.wiley.com/journal/15320634), [TJSC](https://link.springer.com/journal/11227), [TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317).
   
 Teaching Experiences
 ======
