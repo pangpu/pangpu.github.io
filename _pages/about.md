@@ -27,7 +27,7 @@ Publications
 **Conferences**
 * Mingfei Zhang, Anbang Wu\*, **Pu Pang**\*, Liqiang Lu, Zongwu Wang, Fangxin Liu, Zihan Liu, Yu Feng, Jingwen Leng, Minyi Guo. "Erasynth: Improving Quantum Uncomputation with Structural Measurements." International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2027. [[Paper](https://dl.acm.org/doi/10.1145/3845814.3850084)]
 
-* Yaoxuan Li, **Pu Pang**\*, Zhengxuan Yan, Jiuchen Shi, Quan Chen\*, Minyi Guo. "Tamo: Taming Overload of Highly Dynamic Microservices via Precise Call Graph Prediction and Workload-Aware Scheduling." Symposium on Cloud Computing (**SoCC**). 2026.[[Code](https://github.com/sjtu-epcc/Tamo)]
+* Yaoxuan Li, **Pu Pang**\*, Zhengxuan Yan, Jiuchen Shi, Quan Chen\*, Minyi Guo. "Tamo: Taming Overload of Highly Dynamic Microservices via Precise Call Graph Prediction and Workload-Aware Scheduling." Symposium on Cloud Computing (**SoCC**). 2026. [[Code](https://github.com/sjtu-epcc/Tamo)]
 
 * Guangqiang Luan, **Pu Pang**\*, Quan Chen\*, Anbang Wu, Jingwen Leng, Minyi Guo. "MG-MoE: Accelerating Multi-GPU MoE Inference via Expert Prefetching and Cache Coordination." Symposium on Cloud Computing (**SoCC**). 2026.
 
