@@ -26,6 +26,8 @@ Publications
 *^Equal contribution*, **Corresponding author*
 
 **Conferences**
+* Wenda Tang, **Pu Pang**\*, Jie Wu. "CERES: Spending Power Where It Matters for Co-Located Workloads under Socket Power Caps." Design, Automation and Test in Europe (**DATE**). 2027.
+
 * Mingfei Zhang, Anbang Wu\*, **Pu Pang**\*, Liqiang Lu, Zongwu Wang, Fangxin Liu, Zihan Liu, Yu Feng, Jingwen Leng, Minyi Guo. "Erasynth: Improving Quantum Uncomputation with Structural Measurements." International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**). 2027. [[Paper](https://dl.acm.org/doi/10.1145/3845814.3850084)]
 
 * Yaoxuan Li, **Pu Pang**\*, Zhengxuan Yan, Jiuchen Shi, Quan Chen\*, Minyi Guo. "Tamo: Taming Overload of Highly Dynamic Microservices via Precise Call Graph Prediction and Workload-Aware Scheduling." Symposium on Cloud Computing (**SoCC**). 2026. [[Code](https://github.com/sjtu-epcc/Tamo)]
